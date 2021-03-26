@@ -1,0 +1,10 @@
+#hdr {
+    background-color: rgb(85, 141, 119) !important;
+    border-bottom-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+}
+
+#btn {
+    align-items: center !important;
+    margin-left: 35%;
+}
